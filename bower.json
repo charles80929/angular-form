@@ -1,0 +1,27 @@
+{
+  "name": "angular-form-for",
+  "version": "4.1.10",
+  "main": [
+    "./dist/form-for.css",
+    "./dist/form-for.js"
+  ],
+  "homepage": "",
+  "description": "Set of Angular directives to simplify creating and validating HTML forms.",
+  "keywords": [
+    "angular",
+    "form",
+    "forms",
+    "crud",
+    "validation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
